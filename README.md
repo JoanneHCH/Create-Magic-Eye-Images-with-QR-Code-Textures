@@ -1,6 +1,6 @@
 # Create Magic Eye Images with QR Code Textures
 
-For the results, please visit our blog here: [Creating Magic Eye Images with QR Code Textures](https://blogs.gwu.edu/joanne-hsieh/2024/12/16/creating-magic-eye-images-with-qr-code-textures/)
+For the results, please visit our blog here: [Create Magic Eye Images with QR Code Textures](https://blogs.gwu.edu/joanne-hsieh/2024/12/16/creating-magic-eye-images-with-qr-code-textures/)
 
 ## References
 
