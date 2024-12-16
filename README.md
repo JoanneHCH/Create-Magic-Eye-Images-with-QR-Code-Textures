@@ -10,4 +10,4 @@ For the results, please visit our blog here: [Create Magic Eye Images with QR Co
 
 3. Making Your Own Autostereograms using Python: https://flothesof.github.io/making-stereograms-Python.html
  
-4. The input images are generated from [DALL·E](https://openai.com/index/dall-e-2/)
+4. The input images are generated from [DALL·E](https://openai.com/index/dall-e-2/).
