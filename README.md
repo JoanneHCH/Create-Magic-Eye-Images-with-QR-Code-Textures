@@ -1,16 +1,9 @@
-# Create-Magic-Eye-Images-with-QR-Code-Textures
-For the results, please visit our blog here: https://blogs.gwu.edu/joanne-hsieh/2024/12/16/creating-magic-eye-images-with-qr-code-textures/
+# Create Magic Eye Images with QR Code Textures
 
-# References
-@article{Ranftl2020,
-	author    = {Ren\'{e} Ranftl and Katrin Lasinger and David Hafner and Konrad Schindler and Vladlen Koltun},
-	title     = {Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer},
-	journal   = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
-	year      = {2020},
-}
-@article{Ranftl2021,
-	author    = {Ren\'{e} Ranftl and Alexey Bochkovskiy and Vladlen Koltun},
-	title     = {Vision Transformers for Dense Prediction},
-	journal   = {ArXiv preprint},
-	year      = {2021},
-}
+For the results, please visit our blog here: [Creating Magic Eye Images with QR Code Textures](https://blogs.gwu.edu/joanne-hsieh/2024/12/16/creating-magic-eye-images-with-qr-code-textures/)
+
+## References
+
+1. Ranftl, R., Lasinger, K., Hafner, D., Schindler, K., & Koltun, V. (2020). Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*.
+
+2. Ranftl, R., Bochkovskiy, A., & Koltun, V. (2021). Vision Transformers for Dense Prediction. *ArXiv preprint*. [Link to Paper](https://arxiv.org/abs/2103.13413)
